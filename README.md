@@ -2,7 +2,7 @@
 
 Welcome to my GitHub
 
-Most code I work on is here, and avaliable to see.
+Most code I work on is here, however their is a lot of projects still not on GitHub, or either privated.
 
 The easiest way to view my projects, and their descriptions would be at my [site](https://nickpysklywec.netlify.app)
 
