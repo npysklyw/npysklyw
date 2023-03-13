@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+Welcome to my GitHub
+
+Most code I work on is here, and avaliable to see.
+
+The easiest way to view my projects, and their descriptions would be at my site, [&theme=](https://nickpysklywec.netlify.app)
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npysklyw&theme=dark)](https://github.com/npysklyw/github-readme-stats)
 <!--
 **npysklyw/npysklyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
