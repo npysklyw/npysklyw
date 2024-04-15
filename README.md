@@ -4,7 +4,7 @@ Welcome to my GitHub
 
 Most code I work on is here, however there is a lot of projects still not on GitHub, or either privated.
 
-The easiest way to view my projects, and their descriptions would be at my [site]((https://nickp.netlify.app/))
+The easiest way to view my projects, and their descriptions would be at my [site]([https://nickp.netlify.app/])
 <!--
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npysklyw&theme=dark)](https://github.com/npysklyw/github-readme-stats)
