@@ -16,5 +16,5 @@ Software Developer at IBM with experience in Python, React, and Machine Learning
 - Machine Learning tools
 
 ## 📫 How to reach me:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nick-py/))
-- [Portfolio]([your-portfolio-url](https://nickp.netlify.app/))
+- [LinkedIn](https://www.linkedin.com/in/nick-py/)
+- [portfolio](https://nickp.netlify.app/)
