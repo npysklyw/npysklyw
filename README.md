@@ -1,28 +1,20 @@
-### Hi there 👋
+# Hi, I'm Nick Pysklywec 👋
 
-Welcome to my GitHub
+Software Developer at IBM with experience in Python, React, and Machine Learning.
 
-Most code I work on is here, however there is a lot of projects still not on GitHub, or either privated.
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 
-The easiest way to view my projects, and their descriptions would be at my site https://nickp.netlify.app/
+## 🌱 I'm currently exploring open source contributions in:
+- Python/Flask web applications
+- Testing automation
+- React/React Native libraries
+- Machine Learning tools
 
-<!--
-
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=npysklyw&theme=dark)](https://github.com/npysklyw/github-readme-stats)
-
--->
-
-<!--
-**npysklyw/npysklyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npysklyw&theme=dark)](https://github.com/npysklyw/github-readme-stats)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/nick-py/))
+- [Portfolio]([your-portfolio-url](https://nickp.netlify.app/))
