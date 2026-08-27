@@ -1,20 +1,39 @@
-# Hi, I'm Nick Pysklywec 👋
+# Hi, I'm Nick Pysklywec 
 
-Software Developer at IBM with experience in Python, React, and Machine Learning.
+I'm a Software Developer at IBM building full-stack applications, developer
+tools, and AI/ML systems.
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+I enjoy working across the stack — from backend APIs and data pipelines to
+React applications and machine learning systems.
 
-## 🌱 I'm currently exploring open source contributions in:
-- Python/Flask web applications
-- Testing automation
-- React/React Native libraries
-- Machine Learning tools
+### 🔨 Projects
 
-## 📫 How to reach me:
+- 📱 **Wargame Army Builder** — A React Native app for building and managing
+  tabletop army lists, backed by FastAPI and PostgreSQL.
+
+- 🤖 **AI-Driven Full-Stack QA Platform** — A full-stack QA platform built with
+  React, TypeScript, Python, and FastAPI, using RAG and LLMs to automate test
+  generation, anomaly detection, and reporting.
+
+- 📈 **Sentiment Terminal** — A terminal-based stock sentiment analysis application
+  for analyzing and visualizing sentiment in text.
+
+### 💻 Technologies
+
+**Languages:** Python · TypeScript · JavaScript · Java · C++ · SQL · C#
+
+**Backend:** FastAPI · Flask · PostgreSQL · Docker · REST APIs
+
+**Frontend:** React · React Native · HTML/CSS
+
+**AI / ML:** PyTorch · Scikit-learn · OpenCV · RAG · LLM APIs
+
+### 🌱 Currently
+
+I'm interested in full-stack development, AI/ML applications, developer
+tooling, and open-source projects.
+
+### 📫 Find me
+
 - [LinkedIn](https://www.linkedin.com/in/nick-py/)
-- [portfolio](https://nickp.netlify.app/)
+- [Portfolio](https://nickp.netlify.app/)
