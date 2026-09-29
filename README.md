@@ -1,24 +1,16 @@
-# Hi, I'm Nick Pysklywec 
+# Hi, I'm Nick Pysklywec
 
-I'm a Software Developer at IBM building full-stack applications, developer
-tools, and AI/ML systems.
+I'm a Software Developer at IBM in Toronto, interested in backend and full-stack engineering, applied AI, and developer tooling.
 
-I enjoy working across the stack — from backend APIs and data pipelines to
-React applications and machine learning systems.
+I enjoy working across the stack — from backend APIs and data pipelines to React applications and machine learning systems.
 
-###  Projects
+### Projects
 
-- **Wargame Army Builder** — A React Native app for building and managing
-  tabletop army lists, backed by FastAPI and PostgreSQL.
+- **[Benchwarden](https://github.com/npysklyw/Benchwarden)** — An evaluation platform for LLM agents, built with FastAPI, PostgreSQL, and React. Supports repeatable scenarios, execution traces, configurable scoring, run comparisons, and CI regression checks.
+- **[Wargame Army Builder](https://github.com/npysklyw/mesbg-companion)** — A React Native app for building and managing tabletop army lists, with list validation and a FastAPI/PostgreSQL backend.
+- **[Sentiment Terminal](https://github.com/npysklyw/sentiment-terminal)** — A stock market dashboard built with Python, Streamlit, and Supabase PostgreSQL, combining stock prices, news sentiment, and technical indicators through automated data pipelines powered by GitHub Actions.
 
--  **AI-Driven Full-Stack QA Platform** — A full-stack QA platform built with
-  React, TypeScript, Python, and FastAPI, using RAG and LLMs to automate test
-  generation, anomaly detection, and reporting.
-
--  **Sentiment Terminal** — A terminal-based stock sentiment analysis application
-  for analyzing and visualizing sentiment in text.
-
-###Technologies
+### Technologies
 
 **Languages:** Python · TypeScript · JavaScript · Java · C++ · SQL · C#
 
@@ -30,10 +22,9 @@ React applications and machine learning systems.
 
 ### Currently
 
-I'm interested in full-stack development, AI/ML applications, developer
-tooling, and open-source projects.
+Building Benchwarden and exploring agent evaluation, reliable AI applications, and tools that improve software development workflows.
 
-###  Find me
+### Find me
 
 - [LinkedIn](https://www.linkedin.com/in/nick-py/)
 - [Portfolio](https://nickp.netlify.app/)
